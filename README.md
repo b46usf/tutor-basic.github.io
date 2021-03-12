@@ -8,9 +8,9 @@ Ikuti panduan instalasi dibawah untuk demo tutorial dasar nya
 
 1. Download [.zip](https://github.com/b46usf/tutor-basic.github.io/archive/main.zip) file
 2. Download [XAMPP server](https://www.apachefriends.org/download.html) lalu install
-3. Import file crud.sql di phpmyadmin localhost/phpmyadmin
-4. Extrak file .zip di folder htdocs
-5. ketik di url browser localhost/[name folder extrak]
+3. Extrak file .zip di folder xampp/htdocs for windows or lampp/htdocs for linux
+4. Ketik di url browser localhost/phpmyadmin lalu Import file crud.sql
+5. Ketik di url browser localhost/[name folder extrak]
 
 Whenever you commit to this repository this website is changed
 
