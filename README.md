@@ -6,9 +6,9 @@ tutorial dasar web (HTML,CSS Bootstrap,Jquery) dan CRUD php objek oriented.
 
 Ikuti panduan instalasi dibawah untuk demo tutorial dasar nya
 
-1. Download .zip file
-2. Instal XAMPP server
-3. Import file crud.sql di phpmyadmin
+1. Download [.zip](https://github.com/b46usf/tutor-basic.github.io/archive/main.zip) file
+2. Download [XAMPP server](https://www.apachefriends.org/download.html) lalu install
+3. Import file crud.sql di phpmyadmin localhost/phpmyadmin
 4. Extrak file .zip di folder htdocs
 5. ketik di url browser localhost/[name folder extrak]
 
