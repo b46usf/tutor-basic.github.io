@@ -2,26 +2,15 @@
 
 tutorial dasar web (HTML,CSS Bootstrap,Jquery) dan CRUD php objek oriented.
 
-### Markdown
+### Langkah demo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ikuti panduan instalasi dibawah untuk demo tutorial dasar nya
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. Download .zip file
+2. Instal XAMPP server
+3. Import file crud.sql di phpmyadmin
+4. Extrak file .zip di folder htdocs
+5. ketik di url browser localhost/[name folder extrak]
 
 Whenever you commit to this repository this website is changed
 
